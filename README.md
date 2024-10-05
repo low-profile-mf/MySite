@@ -6,7 +6,7 @@
 
 
 <p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
-Currently a B.Tech student at IIIT Sri City. I'm all about tech, creativity, and a good movie night. Outside of coding, I enjoy exploring new hobbies and staying curious.
+Currently clearing lame doubts of juniors.
 
 </p>
 
