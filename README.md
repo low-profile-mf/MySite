@@ -1,7 +1,8 @@
 <h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Abhijit Patil</h1>
 
 
-![Header Image](https://github.com/user-attachments/assets/657233d4-4ea4-4300-a095-30b273524462)
+
+![pf](https://github.com/user-attachments/assets/47a4ec85-e162-4693-bd57-3c0455bc8676)
 
 
 <p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
@@ -18,9 +19,9 @@ Currently a B.Tech student at IIIT Sri City. I'm all about tech, creativity, and
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Random Facts About Me </h2>
 <ul style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
-  <li>I'm a night owl 🌙</li>
-  <li>Podcasts = relaxation 🎧</li>
-  <li>I'm obsessed with VR/AR tech 🌐</li>
+  <li>SKIBIDI 🌙</li>
+  <li>ENGLISH OR SPANISH</li>
+  <li>TAYLOR SWIFT IS LAME</li>
 </ul>
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Contact Me </h2>
